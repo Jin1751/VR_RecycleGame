@@ -6,10 +6,12 @@ VR을 이용한 간단한 게임입니다.
 
 일정 점수가 올라가면 다음 난이도로 올라갑니다.
 
-
+----
+프로젝트 참여자
+  - [RINGGOS](https://github.com/RINGGOS)
+  - [Jin1751](https://github.com/Jin1751)
   
-  
-      
+---      
       
 
 ## 플레이 영상
