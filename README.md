@@ -38,9 +38,9 @@
 ## 플레이 사진 ##
 - ### 시작화면 ###
    <img src = "https://github.com/user-attachments/assets/420a85b3-f151-42e6-ac33-60cfcacb7204" width = 600, height = 289>
-- ### 스테이지 1 [폐기물 처리장] ###
+- ### 스테이지 1: 폐기물 처리장 ###
    <img src = "https://github.com/user-attachments/assets/a84d2adb-ac76-49e3-bad5-f016123d745f" width = 600, height = 289>
-- ### 스테이지 2 [폐기물 소각장] ###
+- ### 스테이지 2: 폐기물 소각장 ###
    <img src = "https://github.com/user-attachments/assets/6d56264e-7840-4626-885a-34d19b96d90a" width = 600, height = 289>
 - ### 엔딩화면 ###
    <img src = "https://github.com/user-attachments/assets/ceea6be5-ce44-4b5a-b600-a336c1aecae8" width = 600, height = 289>
